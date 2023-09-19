@@ -1,8 +1,12 @@
+import Dashboard from "./Pages/Dashboard"
 
 
 const App = () => {
   return (
-    <h1>Jayu</h1>
+    <>
+    <Dashboard/>
+    
+    </>
   )
 }
 
