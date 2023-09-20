@@ -94,5 +94,21 @@
 
 // }
 
-const JJ = 5 == "5"
-console.log(typeof(JJ),JJ);
+// const JJ = 5 == "5"
+// console.log(typeof(JJ),JJ);
+
+
+
+
+// Nullish Coalescing Operator (??):
+// const defaultValue = someValue ?? fallbackValue;
+
+
+// const M = 1
+
+//   if (M){
+//     console.log(" Yeyy");
+//   }
+//   else{
+//     console.log("No");
+//   }
